@@ -215,6 +215,6 @@ $RECYCLE.BIN/
 
 postgres_data
 
-./.idea
-./README.md
-./.gitignore
+.idea
+README.md
+.gitignore
