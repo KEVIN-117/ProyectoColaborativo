@@ -1,7 +1,6 @@
 # comandos
 
-1. inicializar los servicios docker 
-  - 
+1. inicializar los servicios docker
 
 ```shell
 docker-compose up -d
